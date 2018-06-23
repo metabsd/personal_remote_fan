@@ -4,14 +4,14 @@ Le but est de trouver le moyen de controler mon ventilateur.
 
 ## Photo de la manette d'origine
 
-[Chip 315/433mhz](https://imgur.com/CEoLZVQ)
-[Vue arriere board](https://imgur.com/T56YgOf)
-[Vue face board](https://imgur.com/SxH5Pi0)
-[Vue rapproché chip inconnu](https://imgur.com/llVVZNF)
-[Vue de profile](https://imgur.com/bip5JLB)
-[Inscription sur le board](https://imgur.com/8w6rz4A)
-[Vue rapproché coin](https://imgur.com/6ZEjZ5q)
-[Vue de profile 2](https://imgur.com/ef3P9B8)
+[Chip 315/433mhz](https://imgur.com/CEoLZVQ)  
+[Vue arriere board](https://imgur.com/T56YgOf)  
+[Vue face board](https://imgur.com/SxH5Pi0)  
+[Vue rapproché chip inconnu](https://imgur.com/llVVZNF)  
+[Vue de profile](https://imgur.com/bip5JLB)  
+[Inscription sur le board](https://imgur.com/8w6rz4A)  
+[Vue rapproché coin](https://imgur.com/6ZEjZ5q)  
+[Vue de profile 2](https://imgur.com/ef3P9B8)  
 
 ## Équipement acheté pour mon RPi3
 
